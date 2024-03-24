@@ -6,3 +6,4 @@ new featur´re ib  branch feature/cool_feature
 cool feature added
 
 
+Hey, we fiex the ctritical bug
